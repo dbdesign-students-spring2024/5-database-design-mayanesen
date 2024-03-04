@@ -122,6 +122,8 @@ Grades depend of course on the student, the assignment, and each assignment's co
 
 Now that the tables satisfy fourth normal form, below is the Entity-Relationship Diagram (ERD).
 
+![Entity-Relationship Diagram](https://github.com/dbdesign-students-spring2024/5-database-design-mayanesen/blob/main/images/dbdesign_hw5.drawio.webp)
+
 Entities and their Attributes:
 
 - Course: course_id (primary key), course_name
