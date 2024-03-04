@@ -122,7 +122,7 @@ Grades depend of course on the student, the assignment, and each assignment's co
 
 Now that the tables satisfy fourth normal form, below is the Entity-Relationship Diagram (ERD).
 
-![Entity-Relationship Diagram](https://github.com/dbdesign-students-spring2024/5-database-design-mayanesen/blob/main/erd-hw5.drawio.png)
+![Entity-Relationship Diagram](https://github.com/dbdesign-students-spring2024/5-database-design-mayanesen/blob/main/images/erd-hw5.drawio.png)
 
 Entities and their Attributes:
 
